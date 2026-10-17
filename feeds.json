@@ -1,0 +1,26 @@
+{
+  "tecnologia": [
+    {
+      "nome": "G1 Tecnologia",
+      "url": "https://g1.globo.com/dynamo/tecnologia/rss2.xml"
+    },
+    {
+      "nome": "Tecnoblog",
+      "url": "https://tecnoblog.net/feed/"
+    },
+    {
+      "nome": "Canaltech",
+      "url": "https://canaltech.com.br/rss/"
+    }
+  ],
+  "esportes": [
+    {
+      "nome": "ge",
+      "url": "https://ge.globo.com/rss/ge/"
+    },
+    {
+      "nome": "ESPN Brasil",
+      "url": "https://www.espn.com.br/espn/rss/news"
+    }
+  ]
+}
